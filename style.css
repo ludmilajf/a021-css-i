@@ -1,0 +1,78 @@
+#bloco-1 {
+background-color: orange;
+color: white;
+border: 5px solid rgb(250, 192, 84);
+margin: 10px;
+width: 340px;
+height: 100px;
+text-align: center;
+border-radius: 0.2cm;
+transition: 1s;
+}
+
+#bloco-1:hover {
+background-color: orange;
+border: 5px solid rgb(250, 192, 84);
+width: 350px;
+height: 110px;
+}
+
+#bloco-2 {
+background-color: rgba(87, 145, 1, 0.747);
+color: white;
+border: 5px solid rgb(100, 142, 100);
+margin: 10px;
+width: 340px;
+text-align: center;
+border-style: double;
+border-radius: 0.2cm;
+transition: 1s;
+}
+
+#bloco-2:hover {
+background-color: rgba(87, 145, 1, 0.747);
+border: 5px solid rgb(100, 142, 100);
+width: 350px;
+height: 110px;
+}
+
+#bloco-3 {
+background-color: rgba(20, 86, 20, 0.915);
+color: white;
+border: 5px dashed rgb(123, 210, 123);
+margin: 10px;
+width: 340px;
+text-align: center;
+border-radius: 0.2cm;
+transition: 1s;
+}
+
+#bloco-3:hover {
+background-color: rgba(20, 86, 20, 0.915);
+border: 5px dashed rgb(123, 210, 123);
+width: 350px;
+height: 110px;
+}
+
+#bloco-4 {
+background-color: red;
+color: white;
+border: 5px dashed rgb(226, 165, 165);
+margin: 10px;
+width: 340px;
+text-align: center;
+border-style: dotted;
+border-radius: 0.2cm;
+transition: 1s;
+}
+
+#bloco-4:hover {
+background-color: red;
+border: 5px dashed rgb(226, 165, 165);
+width: 350px;
+height: 110px;
+}
+
+main {
+    font-family: Helvetica;
+}
